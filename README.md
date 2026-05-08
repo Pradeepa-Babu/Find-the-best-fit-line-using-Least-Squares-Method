@@ -1,5 +1,10 @@
 # Implementation of Univariate Linear Regression
+
+### NAME : PRADEEPA.B
+### REG NO : 212225040308
+### REF NO : 25017224
 ## AIM:
+
 To implement univariate Linear Regression to fit a straight line using least squares.
 
 ## Equipments Required:
